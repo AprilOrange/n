@@ -1,3 +1,12 @@
+### [tj/n] x [taobao npm mirror] is awesome and fast
+
+git clone https://github.com/AprilOrange/n.git  
+cd n  
+sudo npm i -g ./  
+n VERSION  
+
+---
+
 # n
 
 [![Join the chat at https://gitter.im/tj/n](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tj/n?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
